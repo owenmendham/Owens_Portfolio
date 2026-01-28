@@ -1,6 +1,4 @@
-# Owens_Portfolio
-
-## This is my Projects as a Data Analyst
+# Owens Data Analyst Portfolio
 
 ### Project 1
 
