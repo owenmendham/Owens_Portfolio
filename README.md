@@ -7,3 +7,5 @@
 * Code was then written in SQL to give players numerical values of their contribution to games based on 5 categories
 * The ranks system was then used in SQL to find outliers based on in-game contributions compared to salary paid
 * Lastly, calculated team totals and referenced them with real-life wins count to ensure accuracy
+
+### [Project 2]
